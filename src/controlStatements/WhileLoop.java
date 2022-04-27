@@ -7,6 +7,7 @@ public class WhileLoop {
         int n=8;
         while (i<=10){
             System.out.println(n+"*"+i+"="+n*i);
+            System.out.println(n+"*"+i+"="+n*i);
             i++;
         }
     }
